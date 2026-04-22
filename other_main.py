@@ -364,4 +364,4 @@ async def leaasdve(ctx):
         await ctx.send("❌ Not connected.")
 
 # --- Run bot ---
-bot.run("MTM5NjUwMjU1MjA2OTAxMzU0NA.GZFYSl.S-XaAbXXRZgGaWup7aDIF3gmFObnhkcXubqm-8")
+bot.run("MTM5NjUwMjU1MjA2OTAxMzU0NA.GXpI4l.8t_c2-S4qGc6U_VEK7lDqOhBNTogBmB9uDWKzQ")
